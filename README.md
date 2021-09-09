@@ -1,13 +1,13 @@
 # Sales-Dashboard-PowerBi-
-Since, dataset size is approx 100Mb, so can'tbe uploaded to here. link to download dataset https://drive.google.com/file/d/1p5AW5-ITBfIiYkIaOjWwjjThyZ5YdiUR/view.
+Since, dataset size is approx 100Mb, so can'tbe uploaded to here. link to download dataset: https://drive.google.com/file/d/1p5AW5-ITBfIiYkIaOjWwjjThyZ5YdiUR/view.
 
-Dataset Description
+Dataset Description: 
 Dataset is about a company's sales made from multiple departmental stores across the world, with details of the sale, discount, profit, product, customer, store, and location data.
 
-Business problem
+Business problem: 
 To analyze and find the regions and product categories for improvement in business, also locate the best performing products and our top customers on the way. To find our Delivery performance and department level analysis on sales and profits.
 
-Assignment 1: Convert flat data file to Modeled data
+Convert flat data file to Modeled data:
 
 Remove unwanted columns, only keep the column as mentioned in the Dataset description
 Rearrange Columns as per your requirement to easily group similar kinds of data columns.
