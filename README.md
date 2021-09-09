@@ -1,4 +1,6 @@
 # Sales-Dashboard-PowerBi-
+Since, dataset size is approx 100Mb, so can'tbe uploaded to here. link to download dataset https://drive.google.com/file/d/1p5AW5-ITBfIiYkIaOjWwjjThyZ5YdiUR/view.
+
 Dataset Description
 Dataset is about a company's sales made from multiple departmental stores across the world, with details of the sale, discount, profit, product, customer, store, and location data.
 
